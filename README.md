@@ -1,6 +1,6 @@
 #CodeClub Convert Money
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="exemplo-image.png" alt="imagem do projeto">
 
 > Andamento do projeto até o momento.
 
