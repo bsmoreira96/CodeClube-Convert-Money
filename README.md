@@ -9,7 +9,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] Criação do arquivo HTML e push para o GitHub
-- [ ] finalização do arquivo HTML
+- [x] finalização do arquivo HTML
 - [ ] Criação do CSS
 - [ ] Criação do Código do projeto em JavaScript
 - [ ] Subir para o GitHub Pages
